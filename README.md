@@ -1,6 +1,6 @@
 # Introduction to Python: A Series of Hands-on Software Carpentry Workshops
 
-Software carpentry lessons can be found [here](http://swcarpentry.github.io/python-novice-gapminder/)
+Software carpentry lessons can be found [here](http://swcarpentry.github.io/python-novice-gapminder/).
 
 This GitHub repository contains all the training materials that the instructors used in the [workshops](https://cbiit.github.io/p2p-datasci/2021-03-25-introduction_to_python/).
 
