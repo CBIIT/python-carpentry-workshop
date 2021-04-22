@@ -1,5 +1,7 @@
 # Introduction to Python: A Series of Hands-on Software Carpentry Workshops
 
+Software carpentry lessons can be found [here](http://swcarpentry.github.io/python-novice-gapminder/)
+
 This GitHub repository contains all the training materials that the instructors used in the [workshops](https://cbiit.github.io/p2p-datasci/2021-03-25-introduction_to_python/).
 
 * **Week 1, April 20, 11 a.m. – 1 p.m. ET [[Recording]](https://youtu.be/uf72-xQOBJg)**: *[Introduction to Python and Colab](./week1/python_carpentry_workshop-2021-04-20.pdf), Running and Quitting, [Variables and Assignment](./week1/python_variables_and_assignment-2021-04-20.ipynb)*
