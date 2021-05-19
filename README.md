@@ -10,3 +10,4 @@ Software carpentry lessons can be found [here](http://swcarpentry.github.io/pyth
 * **Week 4, May 11, 11 a.m. – 1 p.m. ET [[Recording]](https://youtu.be/NijTK7ViIE4)**: *[Pandas DataFrames 2](./week4/python_pandas_dataframes_2.ipynb), [Plotting 1](./week4/python_plotting_1.ipynb), [Lists 1](./week4/python_lists_1.ipynb)*
 * **Week 5, May 18, 11 a.m. – 1 p.m. ET [[Recording]](https://youtu.be/v_NXSAGvtI0)**: *[Lists 2](./week5/python_lists_2.ipynb), [For Loops](./week5/python_for_loops.ipynb), [Looping Over Data Sets](./week5/python_looping_over_data_sets.ipynb), [Conditionals](./week5/python_conditionals.ipynb)*
 * **Week 6, May 25, 11 a.m. – 1 p.m. ET**: *Writing Functions, Variable Scope, Programming Style, Wrap-Up*
+* **Week 6, May 28, 1 p.m. – 2 p.m. ET**: *Plotting 2*
