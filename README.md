@@ -1,6 +1,6 @@
 # Introduction to Python: A Series of Hands-on Software Carpentry Workshops (2022)
 
-This GitHub repository contains all the training materials that the instructors will use in the [2022 workshops](https://ncihub.org/groups/dslx/events/introduction_to_python_a_series_of_hands-on_software_carpentry_workshops_2022).
+This GitHub repository contains all the training materials that the instructors will use in [the workshops](https://ncihub.org/groups/dslx/events/introduction_to_python_a_series_of_hands-on_software_carpentry_workshops_2022).
 
 Materials from 2021 can be [found here](./2021_materials).
 
